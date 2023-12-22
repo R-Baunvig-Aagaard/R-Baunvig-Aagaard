@@ -2,6 +2,8 @@
 
 Aarhus, Denmark
 
+🔭 I’m currently working on [REST APIs with .NET and C#](https://github.com/R-Baunvig-Aagaard/test_projects)
+
 ## Projects
 
 * [Portfolio Resume](https://github.com/R-Baunvig-Aagaard/portfolio_resume)
